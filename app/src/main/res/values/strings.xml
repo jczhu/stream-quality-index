@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Stream Quality Index</string>
+    <string name="action_settings">Settings</string>
+    <string name="rocky">Rocky Bottom Stream</string>
+    <string name="muddy">Muddy Bottom Stream</string>
+    <string name="title_activity_rocky_stream">RockyStream</string>
+    <string name="title_activity_muddy_stream">MuddyStream</string>
+    <string name="title_activity_rocky__stream">Rocky_Stream</string>
+    <string name="title_activity_muddy__stream">Muddy_Stream</string>
+
+    <string name="macroinvertebrates">Macroinvertebrate Count</string>
+    <string name="plus">+</string>
+    <string name="minus">-</string>
+    <string name="hint">count</string>
+    <string name="title_activity_display_score_muddy">displayScoreMuddy</string>
+    <string name="title_activity_display_score_rocky">displayScoreRocky</string>
+</resources>
