@@ -1,5 +1,5 @@
 # stream-quality-index
-From Fall 2015 Hack Princeton, a very simple Android app that that could assist samplers of Virginia Save Our Streams in counting macroinvertebrates and in calculating metrics to identify the ecological condition of the stream. Project from HackPrinceton Fall 2015. The user inputs the number of each kind of bug and the app calculates if the water is safe or not safe to use as a drinking source.
+From Fall 2015 Hack Princeton, a very simple Android app that that could assist samplers of Virginia Save Our Streams in counting macroinvertebrates and in calculating metrics to identify the ecological condition of the stream. The user inputs the number of each kind of bug and the app calculates if the water is safe or not safe to use as a drinking source.
 
 In collaboration with Mayee Chen and Ryan Lee (whose GitHub accounts I of yet do not know).
 - I wrote most of the XML.
